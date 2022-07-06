@@ -13,6 +13,11 @@ Skills<p align="left">
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
                                 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+                                <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/power-bi.png" width="36" height="36" alt="Power BI" /></a>
+                                <a href="https://www.microsoft.com/es-ar/microsoft-365?rtc=1" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/office-365.png" width="36" height="36" alt="Microsoft 365" /></a>
+                                <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/ms-excel.png" width="36" height="36" alt="Microsoft Excel" /></a>
+                                <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/344/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" width="36" height="36" alt="SQL Server" /></a>
+                                <a href="https://www.sap.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/sap.png" width="36" height="36" alt="SAP" /></a>
                     </p>
                   
                   
