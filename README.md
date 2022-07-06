@@ -6,7 +6,7 @@ Finance & Data Analyst
 
 *   🌍  I'm based in Buenos Aires, Argentina
 *   ✉️  You can contact me at [balderamiguelar@gmail.com](mailto:balderamiguelar@gmail.com)
-*   🧠  I'm learning Master's on Big Data & MS Power BI Certification
+*   🧠  I'm learning Master's Degree on Big Data & MS Power BI Certification
 *   🤝  I'm open to collaborating on Data Analysis 
 
 Skills<p align="left">
