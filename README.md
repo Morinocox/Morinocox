@@ -26,8 +26,8 @@ Skills<p align="left">
   
  Socials
   
-  <a href="https://www.linkedin.com/in/miguel-baldera" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/linkedin.png" width="36" height="36" alt="Linkedin" /></a>
-  <a href="https://www.discord.com/users/mbaldera" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/discord-logo.png" width="36" height="36" alt="Discord" /></a>
-
+ <a href="https://www.linkedin.com/in/miguel-baldera" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/linkedin.png" width="36" height="36" alt="Linkedin" /></a>
+ <a href="https://www.discord.com/users/mbaldera" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/discord-logo.png" width="36" height="36" alt="Discord" /></a>
+ <a href="https://t.me/morinocox" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/344/telegram-app.png" width="36" height="36" alt="Telegram" /></a>
                   
                   
