@@ -18,6 +18,11 @@ Skills<p align="left">
                                 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/ms-excel.png" width="36" height="36" alt="Microsoft Excel" /></a>
                                 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/344/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" width="36" height="36" alt="SQL Server" /></a>
                                 <a href="https://www.sap.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/sap.png" width="36" height="36" alt="SAP" /></a>
+                                <a href="https://www.linkedin.com/in/miguel-baldera" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/linkedin.png" width="36" height="36" alt="Linkedin" /></a>
+                    
+Socials
+
+                                 <a href="https://www.linkedin.com/in/miguel-baldera" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/linkedin.png" width="36" height="36" alt="Linkedin" /></a>
                     </p>
                   
                   
