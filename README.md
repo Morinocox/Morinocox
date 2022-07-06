@@ -9,7 +9,7 @@ Finance & Data Analyst
 *   🧠  I'm learning Master's Degree on Big Data & MS Power BI Certification
 *   🤝  I'm open to collaborating on Data Analysis 
 
-Skills<p align="left">
+ <b>Skills</b><p align="left">
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
                                 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
@@ -24,10 +24,15 @@ Skills<p align="left">
                                 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/344/jupyter.png" width="36" height="36" alt="Jupyter Notebook" /></a>
                                 
   
- Socials
+  <b>Socials</b>
   
  <a href="https://www.linkedin.com/in/miguel-baldera" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/linkedin.png" width="36" height="36" alt="Linkedin" /></a>
  <a href="https://www.discord.com/users/mbaldera" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/discord-logo.png" width="36" height="36" alt="Discord" /></a>
  <a href="https://t.me/morinocox" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/344/telegram-app.png" width="36" height="36" alt="Telegram" /></a>
-                  
+        
+ <b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Morinocox"><img src="https://github-readme-stats.vercel.app/api?username=Morinocox&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Morinocox's GitHub stats" /></a>
+
+<a href="https://github.com/Morinocox" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morinocox&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
                   
