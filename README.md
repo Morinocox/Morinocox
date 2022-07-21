@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media0.giphy.com/media/ITRemFlr5tS39AzQUL/200w.webp?cid=ecf05e47ymrl7d0rq9vw3jhp2pc7jo5d1w66eb439spk8dfo&rid=200w.webp&ct=g" width="600" height="300"/>
+</div>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miguel Baldera
 ======================================================================================================================================
 
@@ -33,6 +37,7 @@ Finance & Data Analyst
  <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Morinocox"><img src="https://github-readme-stats.vercel.app/api?username=Morinocox&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Morinocox's GitHub stats" /></a>
+
 
 
                   
