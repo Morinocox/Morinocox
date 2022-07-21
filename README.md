@@ -38,6 +38,8 @@ Finance & Data Analyst
 
 <a href="http://www.github.com/Morinocox"><img src="https://github-readme-stats.vercel.app/api?username=Morinocox&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Morinocox's GitHub stats" /></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morinocox&layout=compact&theme=vision-friendly-dark)](https://github.com/morinocox/github-readme-stats)
+
 
 
                   
